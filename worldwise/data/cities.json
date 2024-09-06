@@ -1,0 +1,136 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "⭐",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🍑",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🦘",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "5ef1",
+      "cityName": "Ho Chi Minh City",
+      "emoji": "🇻🇳",
+      "country": "Viet Nam",
+      "date": "2024-07-15T17:13:07.616Z",
+      "notes": "Test",
+      "position": {
+        "lat": 10.765345795536604,
+        "lng": 106.70084569468023
+      }
+    },
+    {
+      "id": "17df",
+      "cityName": "Cartagena",
+      "emoji": "🇪🇸",
+      "country": "Spain",
+      "date": "2024-07-15T17:13:41.288Z",
+      "notes": "test",
+      "position": {
+        "lat": 37.59682400108367,
+        "lng": -0.9448242187500001
+      }
+    },
+    {
+      "id": "3764",
+      "cityName": "Weyarn",
+      "emoji": "🇩🇪",
+      "country": "Germany",
+      "date": "2024-07-15T17:15:24.511Z",
+      "notes": "aaa",
+      "position": {
+        "lat": 47.90161354142077,
+        "lng": 11.799316406250002
+      }
+    },
+    {
+      "id": "109f",
+      "cityName": "Taipei",
+      "emoji": "🇹🇼",
+      "country": "Taiwan (Province of China)",
+      "date": "2024-08-30T17:43:01.983Z",
+      "notes": "Đài Loan",
+      "position": {
+        "lat": 25.085598897064777,
+        "lng": 121.81640625000001
+      }
+    },
+    {
+      "id": "de67",
+      "cityName": "Can Giuoc",
+      "emoji": "🇻🇳",
+      "country": "Viet Nam",
+      "date": "2024-08-30T17:45:58.940Z",
+      "notes": "Cần Giuộc",
+      "position": {
+        "lat": 10.593121073343594,
+        "lng": 106.68136596679689
+      }
+    },
+    {
+      "id": "502d",
+      "cityName": "Thi Tran Phu My",
+      "emoji": "🇻🇳",
+      "country": "Viet Nam",
+      "date": "2024-08-30T17:55:31.187Z",
+      "notes": "",
+      "position": {
+        "lat": 10.572872105561158,
+        "lng": 107.05902099609376
+      }
+    },
+    {
+      "id": "5b06",
+      "cityName": "Vung Tau",
+      "emoji": "🇻🇳",
+      "country": "Viet Nam",
+      "date": "2024-08-30T17:56:14.958Z",
+      "notes": "",
+      "position": {
+        "lat": 10.344642004246246,
+        "lng": 107.09472656250001
+      }
+    },
+    {
+      "id": "0ffe",
+      "cityName": "Tan An",
+      "emoji": "🇻🇳",
+      "country": "Viet Nam",
+      "date": "2024-08-30T17:58:54.828Z",
+      "notes": "",
+      "position": {
+        "lat": 10.517518118452573,
+        "lng": 106.40670776367189
+      }
+    }
+  ]
+}
